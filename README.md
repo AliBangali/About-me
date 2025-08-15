@@ -1,4 +1,4 @@
-# Mohammed Liaket Ali
+# Mohammed Ali
 
 **Dr.-Ing. in Mechanical Engineering** | CFD & Scientific Computing | OpenFOAM • ParaView • Python • Bash
 
