@@ -37,8 +37,7 @@ My work blends high-fidelity simulation with reproducible, automated workflows �
 
 - 📧 [malicuet@gmail.com](mailto:malicuet@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/liaket/)  
-- 📂 [GrabCAD Portfolio](https://grabcad.com/mohammed.liaket.ali-2/models)  
-- 📜 [DOI: 10.26127/BTUOpen-6969](https://doi.org/10.26127/BTUOpen-6969)  
+- 📂 [GrabCAD Portfolio](https://grabcad.com/mohammed.liaket.ali-2/models)   
 
 ---
 
